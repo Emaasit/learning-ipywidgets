@@ -2,7 +2,7 @@ alabaster==0.7.10
 algopy==0.5.7
 amqp==2.2.2
 # anaconda-client==1.6.5
-anaconda-navigator==1.6.9
+# anaconda-navigator==1.6.9
 anaconda-project==0.8.0
 appnope==0.1.0
 appscript==1.0.1
