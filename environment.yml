@@ -2,6 +2,6 @@ name: myenv
 channels:
 - defaults
 dependencies:
-- matplotlib=2.1.2=py36h6d6146d_0
+- matplotlib==2.1.2
 prefix: /Users/demaasit/anaconda3/envs/myenv
 
